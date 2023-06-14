@@ -1,0 +1,19 @@
+.itemDetailContainer__header {
+    padding: 1rem 0;
+}
+
+.itemDetailContainer__price {
+    text-align: right;
+}
+
+.itemDetailContainer__description {
+    padding: 1.5rem;
+}
+
+.itemDetailContainer__footer {
+    padding: 1rem 1.5rem;
+}
+
+.itemDetailContainer__gridCartButton {
+    text-align: right;
+}

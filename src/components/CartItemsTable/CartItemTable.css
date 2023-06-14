@@ -1,0 +1,26 @@
+.cell_product {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.cell_product_image {
+    border-radius: 50%;
+}
+
+.cell_product_title {
+    margin-left: 10px;
+}
+
+.total_payment {
+    margin-top: 20px;
+    text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+    .cell_product_title {
+        margin-left: 5px;
+        font-size: 0.9rem;
+    }
+
+}

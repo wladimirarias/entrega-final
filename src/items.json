@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Galaxy Tab Samsung",
+        "description": "Éste es un Galaxy Tab de la marca Samsung",
+        "image": "../images/galaxytab.webp",
+        "price": "500.000",
+        "categoryId": "1",
+        "categoryName": "Tablet"
+    },
+    {
+        "id": "2",
+        "title": "MacBook Apple",
+        "description": "Éste es un MacBook de la marca Apple",
+        "image": "../images/macbook.jpg",
+        "price": "1.000.000",
+        "categoryId": "2",
+        "categoryName": "Notebook"
+    },
+    {
+        "id": "3",
+        "title": "iPad",
+        "description": "Éste es un iPad de la marca Apple",
+        "image": "../images/ipad.jpg",
+        "price": "800.000",
+        "categoryId": "1",
+        "categoryName": "Tablet"
+    },
+    {
+        "id": "4",
+        "title": "GalaxyBook Samsung",
+        "description": "Éste es un NoteBook de la marca Samsung",
+        "image": "../images/galaxybook.jpg",
+        "price": "700.000",
+        "categoryId": "2",
+        "categoryName": "Notebook"
+    }
+]

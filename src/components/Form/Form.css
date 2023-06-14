@@ -1,0 +1,16 @@
+.order_form {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.order_form .MuiFormControl-root {
+    width: 100%;
+    margin: 0.5rem 0;
+}
+
+.order_form .MuiButtonBase-root {
+    min-width: 7rem;
+    margin: 1rem auto 0 auto;
+    padding: 0.5rem 1rem;
+}
